@@ -11,7 +11,9 @@
 #### PI : Raspbian GNU/Linux 11 debian 11.7, OpenCV 4.5.1, RPi.GPIO 0.7.0, 
 
 ## Photos related to the project
-그림
+
+### 
+<img src=![202308](https://github.com/aworkerJI/202308_AI_Car/assets/59903316/645c1056-e0af-4f08-89c4-44751c4d68af), jpg width="550" height="350">
 
 
 
