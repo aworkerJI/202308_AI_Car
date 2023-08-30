@@ -13,7 +13,7 @@
 ## Photos related to the project
 
 ### 
-<img src=![202308](https://github.com/aworkerJI/202308_AI_Car/assets/59903316/645c1056-e0af-4f08-89c4-44751c4d68af), jpg width="550" height="350">
+![202308](https://github.com/aworkerJI/202308_AI_Car/assets/59903316/e4a3a587-c286-4950-971d-2e6d9e095ed9)
 
 
 
