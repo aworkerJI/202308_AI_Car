@@ -13,7 +13,13 @@
 ## Photos related to the project
 
 ### 
-<img src=![202308](https://github.com/aworkerJI/202308_AI_Car/assets/59903316/645c1056-e0af-4f08-89c4-44751c4d68af), jpg width="550" height="350">
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/e4a3a587-c286-4950-971d-2e6d9e095ed9.png" width="550" height="350"/>
+
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/1afcc0f0-67a4-41aa-b6a4-f2c530325239.png" width="550" height="350"/>
+
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/cb220d5b-ae1b-4b8c-8a42-b3f1c775606f.png" width="550" height="350"/>
+
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/723031a6-ab94-4f90-b633-7df6d16e7a84.png" width="550" height="350"/>
 
 
 
