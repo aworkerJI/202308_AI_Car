@@ -17,13 +17,8 @@
 <img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/bf91861c-42c5-4c62-9e98-0ede9285643f.png" width="550" height="350"/>
 
 
-### This is a graph comparing the predicted results and actual results by randomly selecting 16 pieces of data for testing. Red indicates that the prediction and actual are different.
+#### This is a graph comparing the predicted results and actual results by randomly selecting 16 pieces of data for testing. Red indicates that the prediction and actual are different.
 <img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/5ba54989-a081-472a-9f1b-9ab93c8fde75.png" width="550" height="350"/>
-
-
-###
-<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/bf91861c-42c5-4c62-9e98-0ede9285643f.png" width="550" height="350"/>
-
 
 
 
