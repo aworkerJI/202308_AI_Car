@@ -7,8 +7,8 @@
 #### Raspberry PI4(4GB), Infrared transmitting and receiving sensor(TCRT 5000), 5MP PI Camera(OV5647)
 
 ## Development Environment
-#### PC : Win10, Python 3.8.10, OpenCV 4.8.0, numpy 1.24.3, tensorflow 2.13.0, 
-#### PI : Raspbian GNU/Linux 11 debian 11.7, OpenCV 4.5.1, RPi.GPIO 0.7.0, 
+#### PC : Win10, Python 3.8.10, OpenCV 4.8.0, numpy 1.24.3, tensorflow 2.13.0
+#### PI : Raspbian GNU/Linux 11 debian 11.7, OpenCV 4.5.1, RPi.GPIO 0.7.0
 
 ## Photos related to the project
 ### 
