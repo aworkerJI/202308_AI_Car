@@ -1,6 +1,7 @@
-# Output the image data received from Pi on the PC screen 
-# and transmit the motor operation data to PI.
+
 # Set PC as the socket communication client
+# Output the image data received from Pi on the PC screen
+# and transmit the motor operation data to PI.
 # 01 Receive sensor value and video data
 # 02 Convert video data and output video to PC screen
 # 03 Command the Pi to move based on data
