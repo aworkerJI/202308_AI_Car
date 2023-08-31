@@ -1,31 +1,29 @@
-# Project Contents
-## Project Goal
-#### 1. Controlled by remote communication
-#### 2. It learns through infrared sensors and images, and then compares what it learned with real-time images to determine basic autonomous driving.
-
-## Project Supplies
-#### Raspberry PI4(4GB), Infrared transmitting and receiving sensor(TCRT 5000), 5MP PI Camera(OV5647)
-
-## Development Environment
-#### PC : Win10, Python 3.8.10, OpenCV 4.8.0, numpy 1.24.3, tensorflow 2.13.0, 
-#### PI : Raspbian GNU/Linux 11 debian 11.7, OpenCV 4.5.1, RPi.GPIO 0.7.0, 
-
+## Step02_Driving_using_tcp_communication
+### PI and PC communicate with TCP socket
+### PC receives real-time video and infrared sensor input from PI
+### Transfer data from PC to PI for motor control
+###
+#### Set PI as the socket communication server
+####  01 Transmission to PC of infrared sensor values and camera data
+####  02 Running a thread with data received from a PC
+####
+#### Set PC as the socket communication client
+#### Output the image data received from Pi on the PC screen
+#### and transmit the motor operation data to PI.
+####  01 Receive sensor value and video data
+####  02 Convert video data and output video to PC screen
+####  03 Command the Pi to move based on data
 ## Photos related to the project
 ### 
-<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/e4a3a587-c286-4950-971d-2e6d9e095ed9.png" width="550" height="350"/>
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/2374a1be-6611-46e1-8413-cd958e81206e.gif" width="550" height="350"/>
 
 
 ###
-<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/1afcc0f0-67a4-41aa-b6a4-f2c530325239.png" width="550" height="350"/>
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/c46a697b-9955-46c8-b652-065f770b9c67.png" width="550" height="350"/>
 
 
 ###
-<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/cb220d5b-ae1b-4b8c-8a42-b3f1c775606f.png" width="550" height="350"/>
-
-
-###
-<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/723031a6-ab94-4f90-b633-7df6d16e7a84.png" width="550" height="350"/>
-
+<img src="https://github.com/aworkerJI/202308_AI_Car/assets/59903316/7f9e9639-c1b0-4200-a0ed-cf32c8611341.png" width="550" height="350"/>
 
 
 
